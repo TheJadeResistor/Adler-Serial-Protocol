@@ -1,3 +1,4 @@
+#include "AdlerSerialManager.h"
 
 // Constructor implementation
 SerialManager::SerialManager(HardwareSerial* serialPort) {
