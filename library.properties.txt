@@ -1,0 +1,8 @@
+name=Adler-Serial-Protocol
+version=1.0.0
+author=Your Name
+maintainer=Your Email
+sentence=Custom robust UART communication protocol for robotic applications.
+paragraph= A custom UART communication protocol for embedded systems, featuring checksum-based error detection using the Adler-32 algorithm.
+category=Communications
+url=https://example.com
